@@ -1,0 +1,27 @@
+<section id="workshops" class="section-accent">
+  <div>
+    <h1>
+      Talleres 15:30 - 18:30
+    </h1>
+    <hr>
+    <div class="workshops">
+      {% for workshop in site.data.workshop %}
+      <div class="workshop">        
+        <h3>{{workshop.name}}</h3>  
+        
+        <p class="twitter">
+          {% if workshop.twitter != "" and workshop.twitter != nil %}
+            <a href="https://twitter.com/{{workshop.twitter}}" target="_blank" title={{workshop.twitter}}>
+            @{{workshop.twitter}}
+            </a>
+          {% endif %}
+        </p>
+        <h4>{{workshop.local}}</h4> 
+        <p class="summary">
+         {{workshop.summary}}
+        </p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,33 @@
+- name: <a href="#workshops">Taller "Nociones estadísticas para manejo de datos" - Ángeles Calduch</a>
+  day:  1
+  time: "15:30"
+
+- name: <a href="#workshops">Taller "¿Cómo aprenden las máquinas? Una introducción práctica al aprendizaje automático" - Laura Sebastià </a>
+  day:  1
+  time: "15:30"
+
+- name: Pausa
+  day:  1
+  time: "18:30"
+
+- name: Video de Bienvenida desde WiDS Stanford
+  day:  1
+  time: "18:50"
+
+- name: Palabras de bienvenida de WiDS Ambassadors
+  day:  1
+  time: "18:55"
+
+- name: '<a target="_blank" href="https://www.widsconference.org/hilary-parker.html">Technical Vision Talks ​​"Using Data Effectively: ​Beyond
+​         Art and Science" - Hilary Parker - Livestream WiDS Stanford</a>'
+  day:  1
+  time: "19:00"
+
+- name: '<a target="_blank" href="https://www.widsconference.org/marzyeh-ghassemi.html">Technical Vision Talks ​​"Improving Health Requires ​Targeting and Evidence" 
+- Marzyeh Ghassemi - Livestream WiDS Stanford</a>'
+  day:  1
+  time: "19:20"
+
+- name: "Mesa redonda. Con Laura Rodríguez, Rosa Benet y Cristina Aranda. Modera: Fernanda Peset"
+  day:  1
+  time: "19:50"

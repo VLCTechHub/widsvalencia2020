@@ -1,0 +1,37 @@
+<section id="partners">
+<div class="section-heading">
+<div>
+    <h2>Organizan</h2>
+    <hr>
+    <ul class="partners ">
+        {% for partner in site.data.partners  %}
+        <li>
+            <a href="{{partner.url}}" target="_blank">
+                <img src="{{partner.image-url}}" alt="{{partner.name}} logo">
+            </a>
+        </li>
+        {%endfor%}
+    </ul>
+</div>
+
+<div>
+    <h2>Colaboran</h2>
+    <hr>
+    <ul class="partners ">
+        {% for partner in site.data.partners2  %}
+        <li>
+            <a href="{{partner.url}}" target="_blank">
+                <img src="{{partner.image-url}}" alt="{{partner.name}} logo">
+            </a>
+        </li>
+        {%endfor%}
+    </ul>
+</div>
+
+<!-- <div>
+    <h2>Equipo organizador</h2>
+    <hr>
+    <p><a rel="external" target="_blank" href="https://www.linkedin.com/in/cecivieira/">Ana Cecília Vieira</a> / <a rel="external" target="_blank" href="https://www.linkedin.com/in/andrea-naranjo-chávez/">Andrea Naranjo</a> / <a rel="external" target="_blank" href="https://www.linkedin.com/in/antonia-ferrer-797b065/">Antonia Ferrer-Sapena</a> / <a rel="external" target="_blank" href="https://www.linkedin.com/in/davidhernandezruiz1">David Hernández</a> / <a rel="external" target="_blank" href="https://www.linkedin.com/in/fernanda-peset-4236508/">Fernanda Peset</a> / <a rel="external" target="_blank" href="https://www.linkedin.com/in/iajorodriguez/">María José Rodriguez</a></p>
+</div> -->
+</div>
+</section>

@@ -1,0 +1,9 @@
+- name: Nociones estadísticas para manejo de datos
+  summary: "En la actualidad hay una gran cantidad de datos que se representan y analizan, y sus resultados son mostrados en canales de televisión, en medios digitales… ¿Entendemos realmente lo que nos quieren decir esas representaciones? ¿Somos capaces de detectar errores o malas prácticas? En este taller se verán conceptos estadísticos básicos y se darán unas directrices para entender y analizar esta información."
+  local: Lab. Radia Perlman - 1B - ETSInf
+  twitter: angeles_calduch
+
+- name: ¿Cómo aprenden las máquinas? Una introducción práctica al aprendizaje automático
+  summary: "El auge la inteligencia artificial en los últimos años es innegable. A diario utilizamos herramientas que aprenden de nuestros actos, nuestros gustos, etc. y que nos ayudan en ciertas tareas como decidir qué película ver en Netflix, qué libro comprar en Amazon, qué ruta coger para volver a casa, etc. ¿Y cómo funcionan estos sistemas? ¿Cómo aprenden? En este taller, haremos una pequeña introducción al aprendizaje automático, veremos en qué consiste y las técnicas básicas de machine learning. Por último, realizaremos una pequeña práctica para desarrollar un sistema de predicción muy sencillo."
+  local: Lab. Richard Stallman - 1B - ETSInf
+  twitter: LauraSTarin

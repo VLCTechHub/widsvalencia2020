@@ -1,0 +1,28 @@
+- name: Ángeles Calduch Losa
+  avatar: /assets/images/speakers/angeles_calduch.jpg
+  bio: "Ángeles es Subdirectora de Ordenación Académica y Alumnado de la ETSINF-UPV. Se Licenció en Estadística y tiene un doctorado en Matemáticas. Ha participado en varios proyectos académicos como: Using Social Networks to teach in University, Depicting the visibility of private companies using web-based data, Core Skills for 21st Century Professionals (CoSki21), Teaching project. Siempre inmersa en el mundo de los datos cuenta con investigaciones como Estimating web impact evidence from interconnected data sources, Webometric methods to identify web trends in industrial sectors."
+  twitter: angeles_calduch
+
+- name: Laura Sebastià
+  avatar: /assets/images/speakers/laura_sebastia.jpg
+  bio: "Laura es doctora en Inteligencia Artificial por la UPV, profesora, investigadora y Subdirectora Docente del Departamento de Sistemas Informáticos y Computación. Sus líneas de investigación se centran en la planificación automática, los sistemas de recomendación y el análisis de datos. Ha trabajado en muchos proyectos de investigación, actualmente dirige el proyecto <a rel=”external” target=_blank href=”https://arpia.blogs.upv.es/”> ARPIA (Activity Recognition and Planning for Intelligent Assistants)</a> donde colabora con investigadores de la UC3M con el fin de construir asistentes inteligentes para entornos en los que los datos son secuencias de actividades realizadas por agentes, para aplicarlos a entornos de gestión de tráfico, robots asistentes para personas mayores, etc. También ha trabajado en el desarrollo de sistemas de recomendación para turismo (colaborando con Destinia.com) y en el análisis de datos turísticos que provienen de fuentes abiertas de datos."
+  twitter: LauraSTarin
+
+- name: Cristina Aranda
+  avatar: /assets/images/speakers/cristina_aranda.jpg
+  bio: "Cristina cuenta con una experiencia de más de 16 años en el mundo del marketing, de la innovación y de la transformación digital a través de su trabajo con Ibex35, Top500, Pymes y varias Startups. Además es Cofundadora de Mujeres Tech, una asociación sin ánimo de lucro que promueve iniciativas con presencia femenina en la tecnología y establece lazos con hombres dispuestos a generar la misma igualdad de oportunidades. Es Doctora en Lingüística Teórica y Aplicada por la UAM y el IUI. Ortega y Gasset, licenciada en Filología Hispánica por la UAM, Máster en Internet Business por el ISDI y Digital Technology for Business Program por IGZ Academy. En la actualidad trabaja en PR, Pre-Sales & Innovation Research en Intelygenz mientras profundiza en el procesamiento natural del lenguaje para su aplicación en el Internet de las cosas y la inteligencia artificial."
+  twitter: cris_aranda_
+
+- name: Laura Rodríguez
+  avatar: /assets/images/speakers/laura_rodriguez.jpg
+  bio: "Laura es en la actualidad Vice-President Analytics en ForwardKeys. En su experiencia anterior ha desarrollado distintos roles técnicos y comerciales en ámbitos como ayudas a la navegación, generación solar fotovoltaica o formación.  Su formación académica inició con una licenciatura en Física por la UV, tiene un Máster en Data Analysis Engineeering, Process Improvement and Decision Making, por la UPV, Máster en Business Administration and Management, MBA por la Universidad Europea de Madrid (Estema) y Diplomada en Investigación Operativa y Sistemas por la UV. En 2014 se unió al proyecto de ForwardKeys, creando y consolidando un departamento de analistas en el que la innovación y el servicio al cliente son los ejes fundamentales."
+  
+- name: Rosa Benet
+  avatar: /assets/images/speakers/rosa_benet.jpg
+  bio: "Rosa trabaja en la actualidad como Data Scientist en Cajamar Data Lab. Es European Financial Advisor €FA e imparte cursos en la Escuela de Formación Financiera  del GCC. Se licenció en Matemáticas y Ciencias Técnicas Estadísticas en la Universidad de Valencia. Tiene interés en Big Data, Machine Learning, redes neuronales y su aplicación en varios campos."
+  twitter: benet_rosa
+
+- name: Fernanda Peset
+  avatar: /assets/images/speakers/fernanda_peset.jpg
+  bio: "Fernanda Peset es Titular de la Universitat Politècnica de València. Su docencia y publicaciones se orientan a: la comunicación científica, el acceso abierto y la implantación del protocolo OAI-PMH, la normalización de la información, la descripción de documentos, sistemas de documentación de museos y datos abiertos y enlazados. Sus últimos proyectos están relacionados con la implantación de tecnología blockchain e iniciativas para promover una economía más justa."
+  twitter: fernandapeset
