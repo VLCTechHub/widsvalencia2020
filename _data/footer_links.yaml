@@ -5,4 +5,7 @@
   line_break: True
 - name: VLCTechFest
   url: https://vlctechfest.org/
-
+- name: "Ediciones anteriores:"
+  line_break: True
+- name: WiDS Valencia 2019
+  url: https://widsvalencia.vlctechhub.org
